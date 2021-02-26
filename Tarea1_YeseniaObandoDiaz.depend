@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594508706 source:c:\users\yess ajedrez\desktop\informática\uned\cuatri iii\intro a la progra\tarea1_yeseniaobandodiaz\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
